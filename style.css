@@ -1,0 +1,17 @@
+form{
+    width: 500px;
+    margin: 0 auto;
+    border-left: 2px solid grey;
+    padding: 20px;
+    background-color: rgba(150, 144, 144, 0.568);
+    box-shadow: 5px 5px 10px;
+}
+img{
+    margin: 20px;
+}
+label{
+    /* margin-bottom: 20px; */
+    display: block;
+}
+
+
